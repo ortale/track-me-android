@@ -1,4 +1,4 @@
-package com.ortalesoft.trackme
+package com.devortale.trackme
 
 import android.os.Build
 

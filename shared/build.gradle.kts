@@ -19,7 +19,7 @@ kotlin {
     }
     
     android {
-       namespace = "com.ortalesoft.trackme.shared"
+       namespace = "com.devortale.trackme.shared"
        compileSdk = libs.versions.android.compileSdk.get().toInt()
        minSdk = libs.versions.android.minSdk.get().toInt()
     

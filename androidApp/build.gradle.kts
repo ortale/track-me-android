@@ -20,11 +20,11 @@ dependencies {
 }
 
 android {
-    namespace = "com.ortalesoft.trackme"
+    namespace = "com.devortale.trackme"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.ortalesoft.trackme"
+        applicationId = "com.devortale.trackme"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
