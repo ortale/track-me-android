@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TrackMe.Starting"
+        parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">#00111D</item>
+
+        <item name="windowSplashScreenAnimatedIcon">
+            @mipmap/ic_launcher
+        </item>
+
+        <item name="postSplashScreenTheme">
+            @android:style/Theme.Material.Light.NoActionBar
+        </item>
+
+    </style>
+
+</resources>
