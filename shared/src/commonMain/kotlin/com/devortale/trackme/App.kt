@@ -1,4 +1,4 @@
-package com.devortale.trackme.app
+package com.devortale.trackme
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize

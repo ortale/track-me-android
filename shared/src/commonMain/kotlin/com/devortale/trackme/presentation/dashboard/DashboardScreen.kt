@@ -4,7 +4,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.devortale.trackme.core.map.TrackMeMap
+import com.devortale.trackme.presentation.components.TrackMeMap
 
 @Composable
 fun DashboardScreen(

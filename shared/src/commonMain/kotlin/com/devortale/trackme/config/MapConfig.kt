@@ -1,4 +1,4 @@
-package com.devortale.trackme.core.map
+package com.devortale.trackme.config
 
 object MapConfig {
 

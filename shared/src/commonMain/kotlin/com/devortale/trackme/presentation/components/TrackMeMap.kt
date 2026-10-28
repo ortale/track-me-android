@@ -1,8 +1,8 @@
-package com.devortale.trackme.core.map
+package com.devortale.trackme.presentation.components
 
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import com.devortale.trackme.config.MapConfig
 import org.maplibre.compose.map.MaplibreMap
 import org.maplibre.compose.map.rememberMapState
 import org.maplibre.compose.style.BaseStyle
